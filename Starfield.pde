@@ -1,6 +1,6 @@
 //your code here
 Particle[] bob;
-int circleNum=500;
+int circleNum=1000;
 
 void setup()
 {
